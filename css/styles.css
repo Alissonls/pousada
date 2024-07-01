@@ -1,0 +1,8 @@
+@font-face {
+    font-family: Comfortaa-Regular;
+    src: url("./fonts/Comfortaa-Regular.ttf");
+}
+
+h1{
+    font-family: Comfortaa-Regular;
+}
