@@ -37,13 +37,24 @@ section{
     text-decoration: underline;
 }
 
-.reservas{
+.reservas, .sobre{
 
     padding: 100px 200px;
     text-align: center;
-    argin-top: 50px;
+    margin-top: 50px;
     margin-bottom: 30px;
     color: white;
     background-color: #01579b;
 
 }
+.mapa{
+    width: 100%;
+    height: 400px;
+    margin-top: 5%;
+}
+
+.card-header{
+    background-color: #01579b;
+    color: whitesmoke;
+}
+
