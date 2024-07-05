@@ -1,8 +1,49 @@
 @font-face {
-    font-family: Comfortaa-Regular;
-    src: url("./fonts/Comfortaa-Regular.ttf");
+    font-family: mont;
+    src: url("./fonts/Montez-Regular.ttf");
 }
 
-h1{
-    font-family: Comfortaa-Regular;
+.paineltitulo{
+    font-family: mont;
+    font-size: 70pt;
+}
+body{
+    background-image: url("../image/acomodacao10.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:  cover;
+}
+
+section{
+    background-color: rgb(112, 24, 24)55)5, 27, 27);
+    padding: 80px 30px 80px 30px;
+}
+#home img{
+    width: 80%;
+}
+.acomodacao{
+    padding: 100px 200px;
+    text-align: center;
+    color: white;
+    background-color: #01579b;
+
+}
+
+.gastronomia{
+
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    text-decoration: underline;
+}
+
+.reservas{
+
+    padding: 100px 200px;
+    text-align: center;
+    argin-top: 50px;
+    margin-bottom: 30px;
+    color: white;
+    background-color: #01579b;
+
 }
